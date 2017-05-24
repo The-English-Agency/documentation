@@ -1,0 +1,19 @@
+holding cryptocurrency can be a dangerous game due to volatility.
+
+buy options? 
+
+keep record of the price paid to acquire the said amount of cryptocurrency on said date, if possible, wait until price is close to the same level to liquidate said funds. (this is probably very impractical in the real world)
+
+security concerns of smart contract wallets: safer alternative?
+
+limit wallet addresses joint-account can send money to.
+                                            ______________
+                ethereum_depsoit_wallet-->][..............]<--BTCRelay_wallet <----BTC_wallet
+			wallet_expenses<--][joint-account][--->wallet_investments
+                        wallet_profits<--][...............][xxx>(solicitation to send to unauthorized)wallet_3
+                                           ________________
+
+ethereum deposit wallet: is the public-facing wallet that saavy ethereum-bearing students can deposit into directly. There's a seperate wallet for depositing monies that come from traditional monetary sources.
+
+
+low-risk, interest bearing, uses for the money on hold to pay teachers? 

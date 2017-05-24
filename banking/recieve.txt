@@ -1,0 +1,20 @@
+Must accept payment in as many forms as possible.
+Accepting online payments
+Accepting mobile payments
+Accepting installment plans
+Accepting Cash
+Accepting Check
+Accepting Transfers
+Accepting Bitcoin and Ethereum (with nice discounts)
+
+
+Online Payment with Debit/Credit cards: 
+Does stripe work in Brazil?
+PagSeguro cost and difficulty in setting up
+Can I do my own payment processing with open-source tools?
+
+Crypto:
+ If the company is to be based on crypto-currency, the hardest part to execute will be getting money into and out of this store.
+What about foxbit to receive money and directly convert it to bitcoin
+
+what about ethereum dealership?
