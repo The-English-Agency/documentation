@@ -1,0 +1,59 @@
+PersonA           PersonB
+|                   |     EntityC
+|                   |     /
+ \__               _/    /
+     \_(Ownership)_/____/
+     (Joint Account) <--business income
+      \\withdraws//
+ (payroll)(overhead)(taxes)(benefits)
+        (investments)
+   (profit distribution)
+
+wallets:
+one per function or one per function type (predictable variable or by destination)
+
+considerations: 
+
+
+funds distribution for business expenses programmatic where possible
+95% of all withdraws are pre-determined
+
+all withdraws require an authorization between owners
+
+pre-determined withdraws can be programmed for auto-approval(attack surface here)
+
+owner authorization can use the briar protocol to authenticate (guarantee identity)
+
+locks on the % amount of funds allowed to be withdrawn(this is an ethereum best practice: rate-limit)
+
+saftey locks for known threats
+saftey locks for erratic behavior (this is an ethereum best practice: circuit-breaker)
+
+
+
+external layers
+---///oooo//----
+authentication process needs to be fleshed out
+
+
+---///oooo//----
+1.how payments will be received
+btc-relay
+discount for crypto-currency users
+
+2.accept payments and convert 
+/this ties into how to provide banking services to foreigners who cant easily open a brazilian account. 
+
+3.payment processing
+stripe
+pagseguro
+traditional banks
+(make it as easy as possible to pay)
+
+4.currency processing
+must find waya to reduce costs here and/or make money on the next item
+5.debit and credit card for use in brazil(regulatory barriers here)
+statement of funds 
+fronting security deposit for apartment
+
+a possinle way if reducing costs of currency processimg and brazilian financial conveniences for foreigners is to partner with a bitcoin exchange. could also become an ethereum dealer.
