@@ -15,6 +15,7 @@ get their documents, help them get an apartment
 facilitate their ambitions
 executive english school (formando executivos gringos em SP)
 
+App Use-Cases
 teacher/student match-making
 personal brand development for teachers
 
@@ -22,12 +23,16 @@ note-taking and quality evaluation
 learning content delivery
 progress tracking and analysis
 
-use info to select candidates for student loans
-titulos de credito securitizado
+
+Student Loans, Headhunting Agency, 
+use data from activities to select candidates for student loans (must opt-in)(see section about analytics)
+product: titulos de credito securitizado
 they pay back when they get a better job
-(use data to your advantage in selecting)
+(use data to your advantage in selecting candidates)/
 
 headhunting and professional matchmaking
 
-crowd-sourced english-qualification service
+crowd-sourced english-qualification service(see Eval.you)/
 five 5-minute conversations with five gringos over the course of 5 months. low cost, low price, distributed aggregatoe service. Make it really rigorous, Advertise it to everyone as a way to brush up on your english.
+
+can also use these evaluations to rate teachers and schools in app.
