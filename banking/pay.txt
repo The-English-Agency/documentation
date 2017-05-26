@@ -12,8 +12,41 @@ Cards tied to bitcoin or ethereum account
 
 
 look at brazilian bitcoin dealers
-ed from thomas case mentioned an american payment processor that is interested in getting marketshare here.
+Ed from thomas case mentioned an american payment processor that is interested in getting marketshare here.
 
 
 these banking services can be available to any foreigner planning to come to brazil for a period
 also see automated document procurement and the cooperative scheme to get them said documents.
+
+
+a new idea
+
+5 minutes before pay with debit, request authorization, money is in joint account with a pool of other cardholders and the program looks at the requester's balance to confirm possible payment. Upon confirmation of wallet and account balance, 
+
+						  
+vendor <---BRL---}Trad.BankAcct{-.      Wallet         |||| DAPP1 ||||
+			          \  __z-____-z__       |User
+				   -=-functionCall=-/   |Balances
+				    \-checkBalance-/--->inState
+				                 |\      |_____|+|____
+					         | \            |
+						 |  \      onApproval
+                                                 |   \          |
+		                        (weakpoint) send_ok_____o
+
+                                                  
+
+					
+					
+user input from authorized device or with physical code					
+function call checkBalance user-eth-acct joint-fiat-acct 
+	if true
+		register and if possible transaction at place/location
+		tell user he's good to go
+User makes transaction
+Sends proof
+Register proof
+function call pushUserAmountDue to (Trad.BankAcct Ethereum Wallet, to be converted to reias and pushed into the Trad.BankAcct)
+						
+
+
